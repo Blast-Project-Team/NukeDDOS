@@ -7,7 +7,7 @@
 
 # Установка
 ### 1
----- git clone https://github.com/Octagon-Team/Private-DDOS-Script-for-ProtectorForceCorp./edit/main/
+---- git clone https://github.com/Octagon-Team/Private-DDOS-Script-for-ProtectorForceCorp./
 
 ---- cd Private-DDOS-Script-for-ProtectorForceCorp./
 
