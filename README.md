@@ -6,7 +6,6 @@
 - Используя данный скрипт вы соглашаетесь что в случае нанесения какого либо ущерба - вся отвественность будет перенесена на того кто совершил правонарушение и нанёс вред. 
 
 # Установка
-### 1
 ---- git clone https://github.com/Octagon-Team/Private-DDOS-Script-for-ProtectorForceCorp
 
 ---- cd Private-DDOS-Script-for-ProtectorForceCorp./
