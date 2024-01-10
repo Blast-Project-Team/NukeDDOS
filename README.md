@@ -6,8 +6,8 @@
 - Используя данный скрипт вы соглашаетесь что в случае нанесения какого либо ущерба - вся отвественность будет перенесена на того кто совершил правонарушение и нанёс вред. 
 
 # Установка
----- git clone https://github.com/Octagon-Team/Private-DDOS-Script-for-ProtectorForceCorp
+---- git clone https://github.com/Octagon-Team/NukeDDOS.git
 
----- cd Private-DDOS-Script-for-ProtectorForceCorp./
+---- cd NukeDDOS
 
 ---- pip3 install requests socket socks time random threading sys SSL datetime
