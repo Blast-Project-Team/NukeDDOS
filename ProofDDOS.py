@@ -12,7 +12,7 @@ import datetime
 
 
 print ('''
-Добро пожаловать ProofDDOS V1.0 by S1riu_SS
+Добро пожаловать NukeDDOS V1.0 by S1riu_SS
 ''')
 
 acceptall = [
