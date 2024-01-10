@@ -8,5 +8,7 @@
 # Установка
 ### 1
 ---- git clone https://github.com/Octagon-Team/Private-DDOS-Script-for-ProtectorForceCorp./edit/main/README.md
+
 ---- cd Private-DDOS-Script-for-ProtectorForceCorp./
+
 ---- pip3 install requests socket socks time random threading sys SSL datetime
